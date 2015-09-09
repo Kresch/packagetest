@@ -1,0 +1,9 @@
+Package: packagetest
+Type: Package
+Title: Takes a vector and outputs a vector of squared elements
+Version: 1.0
+Date: 2015-09-09
+Author: Niclas Lovsjo
+Maintainer: Niclas Lovsjo niclas.lovsjo@me.com
+Description: Not much more, no.
+License: GPL-2
